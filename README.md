@@ -1,2 +1,2 @@
-# skylark-ui-datatree
-The skylark datatree widget library.
+# skylark-jstree
+A version of jstree that ported to running on skylarkjs ui.
