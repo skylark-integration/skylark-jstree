@@ -1,6 +1,6 @@
 {
-  "name": "skylark-ui-datatree",
-  "description": "The skylark datatree widget",
+  "name": "skylark-jstree",
+  "description": "A version of jstree that ported to running on skylarkjs ui.",
   "version": "0.9.0",
   "keywords": [
     "css",
@@ -11,14 +11,14 @@
     "framework",
     "web"
   ],
-  "homepage": "https://github.com/skylarkui/skylark-ui-datatree/",
+  "homepage": "https://github.com/skylarkui/skylark-jstree/",
   "author": "Hudaokeji, Inc.",
   "scripts": {
     "build": "sbundle build ."
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skylarkui/skylark-ui-datatree.git"
+    "url": "https://github.com/skylarkui/ .git"
   },
   "bugs": {
     "url": "https://github.com/skylarkui/skylark-bs-datatree/issues"
@@ -26,8 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "skylark-langx": "https://github.com/skylarklangx/skylark-langx#master",
-    "skylark-utils": "https://github.com/skylarkutils/skylark-utils#master",
-    "skylark-ui-swt": "https://github.com/skylarkui/skylark-ui-swt#master"
+    "skylark-utils-dom": "https://github.com/skylarkutils/skylark-utils-dom#master"
   },
   "engines": {
     "node": ">=0.10.1"
